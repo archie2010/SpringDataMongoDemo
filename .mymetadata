@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringDataMongoDemo"
+  id="myeclipse.1348673372166"
+  context-root="/SpringDataMongoDemo"
+  j2ee-spec="1.4"
+  archive="SpringDataMongoDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
